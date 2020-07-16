@@ -1,0 +1,3846 @@
+Log for Thu Jul 16 2020File is created successfully.
+Listening on port 3001
+Listening on port 3001
+Listening on port 3001
+Listening on port 3001
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+Listening on port 3001
+Listening on port 3001
+Listening on port 3001
+Error: getaddrinfo ENOTFOUND locahost
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:64:26)
+    --------------------
+    at Protocol._enqueue (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (D:\indra\crud\server\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:202:8)
+    at internal/util.js:297:30
+    at new Promise (<anonymous>)
+    at Pool.query (internal/util.js:296:12)
+    at getAllUsers (D:\indra\crud\server\server.js:52:31)
+    at D:\indra\crud\server\server.js:38:2 {
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'locahost',
+  fatal: true
+}
+Error: getaddrinfo ENOTFOUND locahost
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:64:26)
+    --------------------
+    at Protocol._enqueue (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (D:\indra\crud\server\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:202:8)
+    at internal/util.js:297:30
+    at new Promise (<anonymous>)
+    at Pool.query (internal/util.js:296:12)
+    at getAllUsers (D:\indra\crud\server\server.js:52:31)
+    at D:\indra\crud\server\server.js:38:2 {
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'locahost',
+  fatal: true
+}
+Error: getaddrinfo ENOTFOUND locahost
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:64:26)
+    --------------------
+    at Protocol._enqueue (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (D:\indra\crud\server\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:202:8)
+    at internal/util.js:297:30
+    at new Promise (<anonymous>)
+    at Pool.query (internal/util.js:296:12)
+    at getAllUsers (D:\indra\crud\server\server.js:52:31)
+    at D:\indra\crud\server\server.js:38:2 {
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'locahost',
+  fatal: true
+}
+Error: getaddrinfo ENOTFOUND locahost
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:64:26)
+    --------------------
+    at Protocol._enqueue (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (D:\indra\crud\server\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:202:8)
+    at internal/util.js:297:30
+    at new Promise (<anonymous>)
+    at Pool.query (internal/util.js:296:12)
+    at getAllUsers (D:\indra\crud\server\server.js:52:31)
+    at D:\indra\crud\server\server.js:38:2 {
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'locahost',
+  fatal: true
+}
+Error: getaddrinfo ENOTFOUND locahost
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:64:26)
+    --------------------
+    at Protocol._enqueue (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (D:\indra\crud\server\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:202:8)
+    at internal/util.js:297:30
+    at new Promise (<anonymous>)
+    at Pool.query (internal/util.js:296:12)
+    at getAllUsers (D:\indra\crud\server\server.js:52:31)
+    at D:\indra\crud\server\server.js:38:2 {
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'locahost',
+  fatal: true
+}
+Error: getaddrinfo ENOTFOUND locahost
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:64:26)
+    --------------------
+    at Protocol._enqueue (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (D:\indra\crud\server\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:202:8)
+    at internal/util.js:297:30
+    at new Promise (<anonymous>)
+    at Pool.query (internal/util.js:296:12)
+    at getAllUsers (D:\indra\crud\server\server.js:52:31)
+    at D:\indra\crud\server\server.js:38:2 {
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'locahost',
+  fatal: true
+}
+Error: getaddrinfo ENOTFOUND locahost
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:64:26)
+    --------------------
+    at Protocol._enqueue (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (D:\indra\crud\server\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:202:8)
+    at internal/util.js:297:30
+    at new Promise (<anonymous>)
+    at Pool.query (internal/util.js:296:12)
+    at getAllUsers (D:\indra\crud\server\server.js:52:31)
+    at D:\indra\crud\server\server.js:38:2 {
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'locahost',
+  fatal: true
+}
+Error: getaddrinfo ENOTFOUND locahost
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:64:26)
+    --------------------
+    at Protocol._enqueue (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (D:\indra\crud\server\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:202:8)
+    at internal/util.js:297:30
+    at new Promise (<anonymous>)
+    at Pool.query (internal/util.js:296:12)
+    at getAllUsers (D:\indra\crud\server\server.js:52:31)
+    at D:\indra\crud\server\server.js:38:2 {
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'locahost',
+  fatal: true
+}
+Error: getaddrinfo ENOTFOUND locahost
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:64:26)
+    --------------------
+    at Protocol._enqueue (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (D:\indra\crud\server\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:202:8)
+    at internal/util.js:297:30
+    at new Promise (<anonymous>)
+    at Pool.query (internal/util.js:296:12)
+    at getAllUsers (D:\indra\crud\server\server.js:52:31)
+    at D:\indra\crud\server\server.js:38:2 {
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'locahost',
+  fatal: true
+}
+Listening on port 3001
+Listening on port 3001
+Error: getaddrinfo ENOTFOUND locahost
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:64:26)
+    --------------------
+    at Protocol._enqueue (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (D:\indra\crud\server\node_modules\mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:48:16)
+    at Pool.query (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:202:8)
+    at internal/util.js:297:30
+    at new Promise (<anonymous>)
+    at Pool.query (internal/util.js:296:12)
+    at getAllUsers (D:\indra\crud\server\server.js:49:31)
+    at D:\indra\crud\server\server.js:38:2 {
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'locahost',
+  fatal: true
+}
+Listening on port 3001
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+Listening on port 3001
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+Listening on port 3001
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+{
+  username: 'asd',
+  firstname: 'asd',
+  lastname: 'asd',
+  email: 'asd',
+  mobile: 'asd'
+}
+Listening on port 3001
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+Listening on port 3001
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+Listening on port 3001
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+Listening on port 3001
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+Listening on port 3001
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+Error: ER_DUP_ENTRY: Duplicate entry '123' for key 'USERNAME'
+    at Query.Sequence._packetToError (D:\indra\crud\server\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\indra\crud\server\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (D:\indra\crud\server\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (D:\indra\crud\server\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\indra\crud\server\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (D:\indra\crud\server\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:310:20)
+    at addChunk (_stream_readable.js:286:12)
+    --------------------
+    at Pool.query (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:199:23)
+    at internal/util.js:297:30
+    at new Promise (<anonymous>)
+    at Pool.query (internal/util.js:296:12)
+    at createUser (D:\indra\crud\server\server.js:86:31)
+    at D:\indra\crud\server\server.js:72:5
+    at Layer.handle [as handle_request] (D:\indra\crud\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\indra\crud\server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\indra\crud\server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\indra\crud\server\node_modules\express\lib\router\layer.js:95:5) {
+  code: 'ER_DUP_ENTRY',
+  errno: 1062,
+  sqlMessage: "Duplicate entry '123' for key 'USERNAME'",
+  sqlState: '23000',
+  index: 0,
+  sql: "insert into user(username, firstname, lastname, email, mobile) values('123','123','123','123','123')"
+}
+Listening on port 3001
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+Error: ER_DUP_ENTRY: Duplicate entry '123' for key 'USERNAME'
+    at Query.Sequence._packetToError (D:\indra\crud\server\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\indra\crud\server\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (D:\indra\crud\server\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (D:\indra\crud\server\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\indra\crud\server\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (D:\indra\crud\server\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:310:20)
+    at addChunk (_stream_readable.js:286:12)
+    --------------------
+    at Pool.query (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:199:23)
+    at internal/util.js:297:30
+    at new Promise (<anonymous>)
+    at Pool.query (internal/util.js:296:12)
+    at createUser (D:\indra\crud\server\server.js:89:31)
+    at D:\indra\crud\server\server.js:72:5
+    at Layer.handle [as handle_request] (D:\indra\crud\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\indra\crud\server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\indra\crud\server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\indra\crud\server\node_modules\express\lib\router\layer.js:95:5) {
+  code: 'ER_DUP_ENTRY',
+  errno: 1062,
+  sqlMessage: "Duplicate entry '123' for key 'USERNAME'",
+  sqlState: '23000',
+  index: 0,
+  sql: "insert into user(username, firstname, lastname, email, mobile) values('123','123','123','123','123')"
+}
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+Error: ER_DUP_ENTRY: Duplicate entry '123' for key 'USERNAME'
+    at Query.Sequence._packetToError (D:\indra\crud\server\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\indra\crud\server\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (D:\indra\crud\server\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (D:\indra\crud\server\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\indra\crud\server\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (D:\indra\crud\server\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:310:20)
+    at addChunk (_stream_readable.js:286:12)
+    --------------------
+    at Pool.query (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:199:23)
+    at internal/util.js:297:30
+    at new Promise (<anonymous>)
+    at Pool.query (internal/util.js:296:12)
+    at createUser (D:\indra\crud\server\server.js:89:31)
+    at D:\indra\crud\server\server.js:72:5
+    at Layer.handle [as handle_request] (D:\indra\crud\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\indra\crud\server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\indra\crud\server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\indra\crud\server\node_modules\express\lib\router\layer.js:95:5) {
+  code: 'ER_DUP_ENTRY',
+  errno: 1062,
+  sqlMessage: "Duplicate entry '123' for key 'USERNAME'",
+  sqlState: '23000',
+  index: 0,
+  sql: "insert into user(username, firstname, lastname, email, mobile) values('123','123','123','123','123')"
+}
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+Listening on port 3001
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+{ userid: '5' }
+{ userid: '5' }
+Listening on port 3001
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+Error: ER_DUP_ENTRY: Duplicate entry '1233' for key 'USERNAME'
+    at Query.Sequence._packetToError (D:\indra\crud\server\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\indra\crud\server\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (D:\indra\crud\server\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (D:\indra\crud\server\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\indra\crud\server\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (D:\indra\crud\server\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:310:20)
+    at addChunk (_stream_readable.js:286:12)
+    --------------------
+    at Pool.query (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:199:23)
+    at internal/util.js:297:30
+    at new Promise (<anonymous>)
+    at Pool.query (internal/util.js:296:12)
+    at createUser (D:\indra\crud\server\server.js:88:31)
+    at D:\indra\crud\server\server.js:72:5
+    at Layer.handle [as handle_request] (D:\indra\crud\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\indra\crud\server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\indra\crud\server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\indra\crud\server\node_modules\express\lib\router\layer.js:95:5) {
+  code: 'ER_DUP_ENTRY',
+  errno: 1062,
+  sqlMessage: "Duplicate entry '1233' for key 'USERNAME'",
+  sqlState: '23000',
+  index: 0,
+  sql: "insert into user(username, firstname, lastname, email, mobile) values('1233','123','123','123','123')"
+}
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+Error: ER_DUP_ENTRY: Duplicate entry '1233' for key 'USERNAME'
+    at Query.Sequence._packetToError (D:\indra\crud\server\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\indra\crud\server\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (D:\indra\crud\server\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (D:\indra\crud\server\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (D:\indra\crud\server\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\indra\crud\server\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (D:\indra\crud\server\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:310:20)
+    at addChunk (_stream_readable.js:286:12)
+    --------------------
+    at Pool.query (D:\indra\crud\server\node_modules\mysql\lib\Pool.js:199:23)
+    at internal/util.js:297:30
+    at new Promise (<anonymous>)
+    at Pool.query (internal/util.js:296:12)
+    at createUser (D:\indra\crud\server\server.js:88:31)
+    at D:\indra\crud\server\server.js:72:5
+    at Layer.handle [as handle_request] (D:\indra\crud\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\indra\crud\server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\indra\crud\server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\indra\crud\server\node_modules\express\lib\router\layer.js:95:5) {
+  code: 'ER_DUP_ENTRY',
+  errno: 1062,
+  sqlMessage: "Duplicate entry '1233' for key 'USERNAME'",
+  sqlState: '23000',
+  index: 0,
+  sql: "insert into user(username, firstname, lastname, email, mobile) values('1233','123','123','123','123')"
+}
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+Listening on port 3001
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+Listening on port 3001
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+Listening on port 3001
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+%s%s %s %s
+
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
